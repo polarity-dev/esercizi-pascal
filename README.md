@@ -6,6 +6,8 @@
 
 - [Challenge 2 - Object](https://challenge.soluzionifutura.it/invito?code=pascal-object)
 
+- [Challenge 3 - Hackerino](https://challenge.soluzionifutura.it/invito?code=hackerino-pascal)
+
 - [Lista Challenges](https://challenge.soluzionifutura.it/challenges)
 
 ## Link utili
