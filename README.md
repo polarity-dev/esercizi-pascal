@@ -1,7 +1,5 @@
 # Informazioni generali
 
-## Martedí 20 Settembre
-
 - [Challenge 1 - Array](https://challenge.soluzionifutura.it/invito?code=pascal-array)
 
 - [Challenge 2 - Object](https://challenge.soluzionifutura.it/invito?code=pascal-object)
@@ -9,6 +7,8 @@
 - [Challenge 3 - Hackerino](https://challenge.soluzionifutura.it/invito?code=hackerino-pascal)
 
 - [Lista Challenges](https://challenge.soluzionifutura.it/challenges)
+
+- [Example pascal bot](https://t.me/pascal2022_bot)
 
 ## Link utili
 
