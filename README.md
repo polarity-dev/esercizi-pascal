@@ -10,6 +10,19 @@
 
 - [Example pascal bot](https://t.me/pascal2022_bot)
 
+## NPM commands
+
+```sh
+npm init -y
+npm install telegraf
+npm install axios
+npm i -g nodemon
+
+# Creazione di un file index.js
+
+nodemon index.js
+```
+
 ## Link utili
 
 - [NodeJS](https://nodejs.org/en/)
